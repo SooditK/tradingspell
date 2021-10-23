@@ -5,11 +5,11 @@ const HeroSection = () => {
   return (
     <div>
       <section className="text-gray-300 bg-gray-900 body-font">
-        <section class=" text-yellow-400">
-          <div class="flex items-center justify-center px-5 pt-10 -mb-14 mx-auto">
-            <div class="w-full">
+        <section className=" text-yellow-400">
+          <div className="flex items-center justify-center px-5 pt-10 -mb-14 mx-auto">
+            <div className="w-full">
               <center>
-                <h1 class="flex items-center justify-center sm:text-6xl drop-shadow-xl text-2xl font-bold title-font mb-2 text-back">
+                <h1 className="flex items-center justify-center sm:text-6xl drop-shadow-xl text-2xl font-bold title-font mb-2 text-back">
                   Master Technical Analysis Revision
                 </h1>
               </center>

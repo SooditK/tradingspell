@@ -8,14 +8,14 @@ const FeatureTable = () => {
       <section className="text-gray-400 bg-gray-900 body-font">
         <center>
           {/* <BeltGreen text="Deliverables in Master Technical Analysis Program" /> */}
-          <section class="text-black body-font bg-green-300">
-            <div class="container px-5 py-10 mx-auto">
-              <div class="flex items-center justify-center flex-wrap w-full">
-                <h1 class="sm:text-6xl drop-shadow-xl text-2xl font-bold title-font mb-2 text-back">
+          <section className="text-black body-font bg-green-300">
+            <div className="container px-5 py-10 mx-auto">
+              <div className="flex items-center justify-center flex-wrap w-full">
+                <h1 className="sm:text-6xl drop-shadow-xl text-2xl font-bold title-font mb-2 text-back">
                   Deliverables in Master Technical Analysis Revision
                 </h1>
               </div>
-              {/* <h4 class="flex text-lg justify-center items-center mt-4"></h4> */}
+              {/* <h4 className="flex text-lg justify-center items-center mt-4"></h4> */}
             </div>
           </section>
         </center>
