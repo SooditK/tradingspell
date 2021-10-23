@@ -1,6 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import React from "react";
 import Typical from "react-typical";
+import Image from "next/image";
 
 const HeroSection = () => {
   return (
@@ -18,7 +19,7 @@ const HeroSection = () => {
           </div>
         </section>
         <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
-          <img
+          <Image
             className="w-full sm:w-4/6 mb-10 object-cover object-center rounded"
             alt="Trading Spell"
             src="https://i.imgur.com/x4oBqfW.png"

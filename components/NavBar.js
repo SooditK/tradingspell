@@ -1,6 +1,7 @@
 import { Disclosure } from "@headlessui/react";
 import { HiMenu, CgClose } from "react-icons";
 import { MenuIcon, XIcon } from "@heroicons/react/outline";
+import Image from "next/image";
 
 const navigation = [
   { name: "Contact Us", href: "https://wa.me/+916395657006" },
@@ -39,13 +40,13 @@ const Navbar = () => {
               </div>
               <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
                 <div className="flex-shrink-0 flex items-center">
-                  <img
+                  <Image
                     className="block lg:hidden h-8 w-auto"
                     src="https://i.postimg.cc/7P3FbnL4/logo512.png"
                     alt="Workflow"
                   />
                   <span className="hidden md:flex">
-                    <img
+                    <Image
                       src="https://i.postimg.cc/7P3FbnL4/logo512.png"
                       alt="Workflow"
                       className="h-8 w-auto flex justify-center items-center"

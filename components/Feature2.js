@@ -1,5 +1,6 @@
 import React from "react";
 import BeltBlue from "./BeltBlue";
+import Image from "next/image";
 
 const Feature2 = () => {
   return (
@@ -18,7 +19,7 @@ const Feature2 = () => {
             <div className="flex flex-wrap -m-4 text-center">
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/ios-filled/100/000000/student-registration.png"
                     alt=""
                     className="w-12 h-11 mb-3 inline-block"
@@ -30,7 +31,7 @@ const Feature2 = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/ios-glyphs/90/000000/engineer.png"
                     alt=""
                     className="w-12 h-11 mb-3 inline-block"
@@ -42,7 +43,7 @@ const Feature2 = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/material-outlined/96/000000/sales-performance.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -54,7 +55,7 @@ const Feature2 = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/ios-filled/100/000000/coach-.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -66,7 +67,7 @@ const Feature2 = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/ios-filled/100/000000/teacher.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -78,7 +79,7 @@ const Feature2 = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/ios-filled/100/000000/personal-trainer.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -90,7 +91,7 @@ const Feature2 = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/ios-filled/100/000000/businessman.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -102,7 +103,7 @@ const Feature2 = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/ios-filled/100/000000/podium-with-speaker.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -114,7 +115,7 @@ const Feature2 = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/glyph-neue/64/000000/under-computer.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -126,7 +127,7 @@ const Feature2 = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/ios-glyphs/90/000000/personal-growth.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -138,7 +139,7 @@ const Feature2 = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/ios-filled/100/000000/business.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -150,7 +151,7 @@ const Feature2 = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/ios-filled/100/000000/business-network.png"
                     alt=""
                     className="w-12 h-11 mb-3 inline-block"
@@ -162,7 +163,7 @@ const Feature2 = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/ios-filled/100/000000/men-age-group-5.png"
                     alt=""
                     className="w-12 h-11 mb-3 inline-block"
@@ -174,7 +175,7 @@ const Feature2 = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/material-sharp/96/000000/precision-skill.png"
                     alt=""
                     className="w-12 h-11 mb-3 inline-block"
@@ -187,7 +188,7 @@ const Feature2 = () => {
 
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/ios-filled/100/000000/sell-stock.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -199,7 +200,7 @@ const Feature2 = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
-                  <img
+                  <Image
                     src="https://img.icons8.com/ios-filled/100/000000/client-company.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"

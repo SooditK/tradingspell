@@ -1,5 +1,6 @@
 import React from "react";
 import Typical from "react-typical";
+import Image from "next/image";
 
 const HeroSection = () => {
   return (
@@ -17,7 +18,7 @@ const HeroSection = () => {
           </div>
         </section>
         <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
-          <img
+          <Image
             className="w-full sm:w-4/6 mb-10 object-cover object-center rounded"
             alt="hero"
             src="https://i.imgur.com/x4oBqfW.png"
@@ -53,8 +54,8 @@ const HeroSection = () => {
               />
             </h1>
             <p className="sm:text-2xl text-white font-normal text-md leading-relaxed mb-8">
-              "Trading is not about being right, It is about finding steps that
-              offer you a good risk/reward and pulling the trigger."
+              &quot;Trading is not about being right, It is about finding steps
+              that offer you a good risk/reward and pulling the trigger.&quot;
               <br />
               <br />
               Join one of the fastest growing Trading Community and start your
