@@ -1,6 +1,6 @@
 import { Disclosure } from "@headlessui/react";
 import { MenuIcon, XIcon } from "@heroicons/react/outline";
-import Image from "next/image";
+// import Image from "next/image";
 
 const navigation = [
   { name: "Contact Us", href: "https://wa.me/+916395657006" },
@@ -38,13 +38,13 @@ export default function Navbar() {
               </div>
               <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
                 <div className="flex-shrink-0 flex items-center">
-                  <Image
+                  <img
                     className="block lg:hidden h-8 w-auto"
                     src="https://i.postimg.cc/7P3FbnL4/logo512.png"
                     alt="Workflow"
                   />
                   <span className="hidden md:flex">
-                    <Image
+                    <img
                       src="https://i.postimg.cc/7P3FbnL4/logo512.png"
                       alt="Workflow"
                       className="h-8 w-auto flex justify-center items-center"

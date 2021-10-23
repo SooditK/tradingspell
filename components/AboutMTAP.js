@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "next/image";
+// import Image from "next/image";
 
 const AboutMTAP = () => {
   return (
@@ -17,7 +17,7 @@ const AboutMTAP = () => {
           <div className="flex flex-wrap -m-4">
             <div className="p-4 lg:w-1/2">
               <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                <Image
+                <img
                   src="https://png.pngtree.com/png-vector/20200311/ourlarge/pngtree-vector-illustration-business-people-hold-work-meetings-with-many-suggestions-for-png-image_2156403.jpg"
                   alt=""
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
@@ -36,7 +36,7 @@ const AboutMTAP = () => {
             </div>
             <div className="p-4 lg:w-1/2">
               <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                <Image
+                <img
                   src="https://cdn.cse.lk/dvp/landing-intro.png"
                   alt=""
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
@@ -54,7 +54,7 @@ const AboutMTAP = () => {
             </div>
             <div className="p-4 lg:w-1/2">
               <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                <Image
+                <img
                   src="https://png.pngtree.com/png-clipart/20200710/ourlarge/pngtree-hand-drawn-stock-market-technical-analysis-chart-and-business-people-shaking-png-image_2305016.jpg"
                   alt=""
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
@@ -72,7 +72,7 @@ const AboutMTAP = () => {
             </div>
             <div className="p-4 lg:w-1/2">
               <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                <Image
+                <img
                   src="https://i.pinimg.com/736x/9f/b1/6d/9fb16d5849ef8e14140d24bbe7115f97.jpg"
                   alt=""
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
@@ -91,7 +91,7 @@ const AboutMTAP = () => {
             </div>
             <div className="p-4 lg:w-1/2">
               <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                <Image
+                <img
                   src="https://image.freepik.com/free-vector/success-failure-business-illustration_1150-43189.jpg"
                   alt=""
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
@@ -109,7 +109,7 @@ const AboutMTAP = () => {
             </div>
             <div className="p-4 lg:w-1/2">
               <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
-                <Image
+                <img
                   src="https://tradebrains.in/wp-content/uploads/2020/05/Futures-vs-Options-Trading-What-is-More-Profitable.jpg"
                   alt=""
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"

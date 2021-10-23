@@ -11,7 +11,7 @@ import CTA from "../components/pabasics/CTA";
 import Footer from "../components/pabasics/Footer";
 import Head from "next/head";
 
-const pabasics = () => {
+const Pabasics = () => {
   return (
     <div className="App bg-black">
       <Head>
@@ -36,4 +36,4 @@ const pabasics = () => {
   );
 };
 
-export default pabasics;
+export default Pabasics;

@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "next/image";
+// import img from "next/image";
 
 const WhoIsThisFor = () => {
   return (
@@ -21,7 +21,7 @@ const WhoIsThisFor = () => {
             <div className="flex flex-wrap -m-4 text-center">
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 text-white bg-gray-900 border-gray-200 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/office/80/000000/students.png"
                     alt=""
                     className="w-12 h-11 mb-3 text-white inline-block"
@@ -34,7 +34,7 @@ const WhoIsThisFor = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/color/96/000000/engineer.png"
                     alt=""
                     className="w-12 h-11 mb-3 inline-block"
@@ -47,7 +47,7 @@ const WhoIsThisFor = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/fluency/96/000000/total-sales-1.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -60,7 +60,7 @@ const WhoIsThisFor = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/color/96/000000/coach.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -73,7 +73,7 @@ const WhoIsThisFor = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/000000/external-teacher-online-learning-vitaliy-gorbachev-flat-vitaly-gorbachev-1.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -86,7 +86,7 @@ const WhoIsThisFor = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/color/96/000000/personal-trainer-skin-type-3.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -99,7 +99,7 @@ const WhoIsThisFor = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/color/96/000000/businessman.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -112,7 +112,7 @@ const WhoIsThisFor = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/color/96/000000/podium-with-speaker.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -125,7 +125,7 @@ const WhoIsThisFor = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/color/96/000000/female-working-with-a-laptop.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -138,7 +138,7 @@ const WhoIsThisFor = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/external-itim2101-flat-itim2101/64/000000/external-growth-search-itim2101-flat-itim2101-1.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -151,7 +151,7 @@ const WhoIsThisFor = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/external-itim2101-flat-itim2101/64/000000/external-businessman-cafe-itim2101-flat-itim2101.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -164,7 +164,7 @@ const WhoIsThisFor = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-networking-management-kiranshastry-lineal-color-kiranshastry.png"
                     alt=""
                     className="w-12 h-11 mb-3 inline-block"
@@ -177,7 +177,7 @@ const WhoIsThisFor = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-employee-work-from-home-flatart-icons-flat-flatarticons.png"
                     alt=""
                     className="w-12 h-11 mb-3 inline-block"
@@ -190,7 +190,7 @@ const WhoIsThisFor = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/color/96/000000/nerd-hair--v2.png"
                     alt=""
                     className="w-12 h-11 mb-3 inline-block"
@@ -204,7 +204,7 @@ const WhoIsThisFor = () => {
 
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/color/96/000000/saleswoman.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"
@@ -217,7 +217,7 @@ const WhoIsThisFor = () => {
               </div>
               <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
-                  <Image
+                  <img
                     src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-tie-startup-flatart-icons-flat-flatarticons.png"
                     alt=""
                     className="w-12 h-12 mb-3 inline-block"

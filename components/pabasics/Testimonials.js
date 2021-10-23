@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "next/image";
+// import img from "next/img";
 import Link from "next/link";
 
 const Testimonials = () => {
@@ -10,7 +10,7 @@ const Testimonials = () => {
           <div className="flex flex-wrap -m-4">
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-700 p-2 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/aWQwKSD.jpg"
                   alt="content"
@@ -22,7 +22,7 @@ const Testimonials = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-700 p-2 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/mgUKGf1.jpg"
                   alt="content"
@@ -34,7 +34,7 @@ const Testimonials = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-700 p-2 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/q1IOmx7.jpg"
                   alt="content"
@@ -46,7 +46,7 @@ const Testimonials = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-700 p-2 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/ynWcjPA.jpg"
                   alt="content"
@@ -58,7 +58,7 @@ const Testimonials = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4 mt-0 sm:-mt-16">
               <div className="bg-gray-700 p-2 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/llndKRt.jpeg"
                   alt="content"
@@ -70,7 +70,7 @@ const Testimonials = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4 mt-0 sm:-mt-16">
               <div className="bg-gray-700 p-2 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/mwa6QWw.jpg"
                   alt="content"
@@ -82,7 +82,7 @@ const Testimonials = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4 mt-0 sm:-mt-32">
               <div className="bg-gray-700 p-2 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/8K7asWZ.jpg"
                   alt="content"
@@ -94,7 +94,7 @@ const Testimonials = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4 mt-0 sm:-mt-4">
               <div className="bg-gray-700 p-2 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/OChTkye.jpg"
                   alt="content"
@@ -107,10 +107,10 @@ const Testimonials = () => {
             <div className="mt-10 mx-auto sm:mt-16 sm:flex sm:justify-center">
               <div className="rounded-md shadow">
                 <Link
-                  to="/testimonials"
+                  href="/testimonials"
                   className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-green-700 bg-custom-green hover:bg-green-700 hover:text-custom-green md:py-4 md:text-lg md:px-10"
                 >
-                  More Testimonials
+                  <a>More Testimonials</a>
                 </Link>
               </div>
             </div>

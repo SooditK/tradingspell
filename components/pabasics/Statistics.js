@@ -1,12 +1,12 @@
 import React from "react";
-import Image from "next/image";
+// import img from "next/img";
 const Statistics = () => {
   return (
     <div>
       <section className="text-white bg-black body-font">
         <div className="container px-5 py-24 mx-auto flex flex-wrap sm:pr-10">
           <div className="lg:w-1/2 sm:w-1/3 w-full rounded-lg overflow-hidden mt-6 sm:mt-0">
-            <Image
+            <img
               className="object-cover object-center w-full h-full"
               src="https://i.imgur.com/x4oBqfW.png"
               alt="stats"

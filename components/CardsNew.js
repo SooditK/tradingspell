@@ -1,6 +1,6 @@
 import React from "react";
 import BeltBlue from "./BeltBlue";
-import Image from "next/image";
+// import img from "next/img";
 
 const CardsNew = () => {
   return (
@@ -11,7 +11,7 @@ const CardsNew = () => {
           <div className="flex flex-wrap -m-4">
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-3"
                   src="https://i.imgur.com/RK2J6wU.jpg"
                   alt="content"
@@ -24,7 +24,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-10"
                   src="https://i.imgur.com/Gg194Fv.jpg"
                   alt="content"
@@ -36,7 +36,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/yiQsuFq.jpg"
                   alt="content"
@@ -48,7 +48,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/zltZ0Fq.jpg"
                   alt="content"
@@ -60,7 +60,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/P4a7FNg.jpg"
                   alt="content"
@@ -72,7 +72,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/EOVnQQR.jpg"
                   alt="content"
@@ -84,7 +84,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/Jlwv91A.jpg"
                   alt="content"
@@ -96,7 +96,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/IuQ1laJ.jpg"
                   alt="content"
@@ -108,7 +108,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/a6dhvW8.jpg"
                   alt="content"
@@ -120,7 +120,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/rW7vl7z.jpg"
                   alt="content"
@@ -132,7 +132,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/ggaOZuM.jpg"
                   alt="content"
@@ -144,7 +144,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/70SaZ9m.jpg"
                   alt="content"
@@ -156,7 +156,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/lDxegff.jpg"
                   alt="content"
@@ -168,7 +168,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/aBvWZxJ.jpg"
                   alt="content"
@@ -180,7 +180,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/fXy2MtO.jpg"
                   alt="content"
@@ -192,7 +192,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/VnlRKxy.jpg"
                   alt="content"
@@ -204,7 +204,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/CgHvTCf.jpg"
                   alt="content"
@@ -216,7 +216,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/PHLfyfh.jpg"
                   alt="content"
@@ -228,7 +228,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/iSrFxdf.jpg"
                   alt="content"
@@ -240,7 +240,7 @@ const CardsNew = () => {
             </div>
             <div className="xl:w-1/4 md:w-1/2 p-4">
               <div className="bg-gray-600 bg-opacity-40 p-6 rounded-lg">
-                <Image
+                <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/hxvczpV.jpg"
                   alt="content"

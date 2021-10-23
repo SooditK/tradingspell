@@ -1,6 +1,6 @@
 import React from "react";
 import Typical from "react-typical";
-import Image from "next/image";
+// import img from "next/img";
 
 const HeroSection = () => {
   return (
@@ -18,7 +18,7 @@ const HeroSection = () => {
           </div>
         </section>
         <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
-          <Image
+          <img
             className="w-full sm:w-4/6 mb-10 object-cover object-center rounded"
             alt="hero"
             src="https://i.imgur.com/x4oBqfW.png"

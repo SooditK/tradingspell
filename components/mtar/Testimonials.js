@@ -1,6 +1,6 @@
 import React from "react";
 // import BeltBlue from "./BeltBlue";
-import Image from "next/image";
+// import img from "next/img";
 
 const Testimonials = () => {
   return (
@@ -42,7 +42,7 @@ const Testimonials = () => {
                 ADESH
               </h1>
               <div className="flex relative h-56 w-80 sm:w-96">
-                <Image
+                <img
                   alt="gallery"
                   className="absolute inset-0 h-56 w-80 md:w-96 md:h-full object-contain object-center"
                   src="https://i.imgur.com/iT7UsKp.jpg"
@@ -54,7 +54,7 @@ const Testimonials = () => {
                 SAI VIGNESH
               </h1>
               <div className="flex relative h-96 w-80 sm:w-96">
-                <Image
+                <img
                   alt="gallery"
                   className="absolute inset-0 w-96 h-full object-contain object-center"
                   src="https://i.imgur.com/09zQc0k.jpg"
@@ -66,7 +66,7 @@ const Testimonials = () => {
                 NEHA
               </h1>
               <div className="flex relative h-80 w-80 sm:w-96">
-                <Image
+                <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-contain object-center"
                   src="https://i.imgur.com/fZI7HxS.jpg"
@@ -78,7 +78,7 @@ const Testimonials = () => {
                 BHAUMIK
               </h1>
               <div className="flex relative h-96 w-80 sm:w-96">
-                <Image
+                <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-contain object-center"
                   src="https://i.imgur.com/KRzzqFr.jpg"
@@ -90,7 +90,7 @@ const Testimonials = () => {
                 SNEHALATHA
               </h1>
               <div className="flex relative h-96 w-80 sm:w-96">
-                <Image
+                <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-contain object-center"
                   src="https://i.imgur.com/V04RDwO.jpg"
@@ -102,7 +102,7 @@ const Testimonials = () => {
                 ROHIT
               </h1>
               <div className="flex relative h-96 w-80">
-                <Image
+                <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-contain object-center"
                   src="https://i.imgur.com/IAuYiAo.jpg"
