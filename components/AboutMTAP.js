@@ -128,7 +128,7 @@ const AboutMTAP = () => {
             </div>
           </div>
           <div className="flex  justify-center items-center mt-20">
-            <a href="https://rzp.io/l/ZRaXZNJ4L">
+            <a href="https://rzp.io/l/MTAP">
               <button className="flex rounded-full text-black bg-white border-2 border-black py-2 px-8 focus:outline-none shadow-2xl  text-lg  hover:bg-gray-900 hover:text-white">
                 Enroll for MTAP (2.0)
               </button>
