@@ -9,6 +9,7 @@ import BonusSection from "../components/BonusSection";
 import Testimonials from "../components/Testimonials";
 import ContactUs from "../components/ContactUs";
 import Footer from "../components/Footer";
+import Countdown from "../components/countdown/Countdown";
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
       <HeroSection />
       <CardsNew />
       <Feature />
+      <Countdown />
       <Feature2 />
       <Icons />
       <BonusSection />
