@@ -37,7 +37,7 @@ const Countdown = () => {
   });
 
   return (
-    <div className="bg-gray-900 -mt-10 text-white pb-10">
+    <div className="-mt-10 text-white pb-10">
       <Clock
         className="flex"
         timerDays={timerDays}

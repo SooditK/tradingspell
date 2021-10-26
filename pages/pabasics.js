@@ -10,6 +10,7 @@ import Testimonials from "../components/pabasics/Testimonials";
 import CTA from "../components/pabasics/CTA";
 import Footer from "../components/pabasics/Footer";
 import Head from "next/head";
+import Countdown from "../components/countdown/Countdown";
 
 const Pabasics = () => {
   return (
@@ -26,6 +27,7 @@ const Pabasics = () => {
         <BasicTable />
       </div>
       <MiddleButtons />
+      <Countdown />
       <Strip text="Massive Learning in Basics of Price Action" />
       <Cards />
       <Strip text="Testimonials" />
