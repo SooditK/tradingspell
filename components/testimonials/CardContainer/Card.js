@@ -12,7 +12,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/KRzzqFr.jpeg"
-                  alt="content"
+                  alt="bhaumik testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Bhaumik</center>
@@ -24,7 +24,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/09zQc0k.jpeg"
-                  alt="content"
+                  alt="sai vignesh testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Sai Vignesh</center>
@@ -36,7 +36,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/fZI7HxS.jpeg"
-                  alt="content"
+                  alt="neha testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Neha</center>
@@ -48,7 +48,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/V04RDwO.jpeg"
-                  alt="content"
+                  alt="snehlata testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Snehlata</center>
@@ -60,7 +60,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/iT7UsKp.jpeg"
-                  alt="content"
+                  alt="adesh testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Adesh</center>
@@ -72,7 +72,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/IAuYiAo.jpeg"
-                  alt="content"
+                  alt="rohit testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Rohit</center>
@@ -84,7 +84,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/PLeNaW9.png"
-                  alt="content"
+                  alt="khushi sharma testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Khushi Sharma</center>
@@ -96,7 +96,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/amMoObo.png"
-                  alt="content"
+                  alt="vimalan testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Vimalan</center>
@@ -108,7 +108,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/oNRRxtg.jpg"
-                  alt="content"
+                  alt="gaurav testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Gaurav</center>
@@ -120,7 +120,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/OC17ybM.png"
-                  alt="content"
+                  alt="rajesh testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Rajesh</center>
@@ -132,7 +132,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/PDm2ng0.jpg"
-                  alt="content"
+                  alt="yashwant testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Yashwant</center>
@@ -144,7 +144,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/SUmQwPr.jpg"
-                  alt="content"
+                  alt="nishant testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Nishant</center>
@@ -156,7 +156,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/F1Kdquz.png"
-                  alt="content"
+                  alt="meet testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Meet</center>
@@ -168,7 +168,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/Gansul9.jpg"
-                  alt="content"
+                  alt="rahul testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Rahul</center>
@@ -180,7 +180,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/llndKRt.jpg"
-                  alt="content"
+                  alt="sutish testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Sutish</center>
@@ -192,7 +192,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/RJkiSN1.jpg"
-                  alt="content"
+                  alt="aditya testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Aditya</center>
@@ -204,7 +204,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/kpzTVN9.png"
-                  alt="content"
+                  alt="nishant testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Nishant</center>
@@ -216,7 +216,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/izeZCKL.png"
-                  alt="content"
+                  alt="monika testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Monika</center>
@@ -228,7 +228,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/MYstBBN.jpg"
-                  alt="content"
+                  alt="elvis testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Elvis</center>
@@ -240,7 +240,7 @@ const Card = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/QdGrMyA.jpg"
-                  alt="content"
+                  alt="hardik testimonial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Hardik</center>

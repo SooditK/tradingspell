@@ -16,6 +16,14 @@ export default function Home() {
       <Head>
         <title>TRADINGSPELL - NITIN</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta
+          name="description"
+          content="Tradingspell is one of the fastest growing Trading Community, that helps you make an edge over Stock Market and make you financially independent."
+        ></meta>
+        <meta
+          name="keywords"
+          content="analysis, price, bounce, breakout, business, candlestick, chart, community, discord, earning, edge, entry, exits, expectancy, financial, graphy, growth, index, indicator, intraday, lecture, stocks, market, pattern, price, psychology, risk, screeners, strategy, support, swing, trading, technical, trend"
+        ></meta>
       </Head>
       <Navbar />
       <HeroSection />

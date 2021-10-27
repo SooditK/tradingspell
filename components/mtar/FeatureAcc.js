@@ -36,7 +36,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/ios-filled/100/000000/student-registration.png"
-                    alt=""
+                    alt="students"
                     className="w-12 h-11 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-gray-900">
@@ -49,7 +49,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/ios-glyphs/90/000000/engineer.png"
-                    alt=""
+                    alt="engineers"
                     className="w-12 h-11 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-gray-900">
@@ -62,7 +62,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/material-outlined/96/000000/sales-performance.png"
-                    alt=""
+                    alt="sales professional"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-gray-900">
@@ -75,7 +75,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/ios-filled/100/000000/coach-.png"
-                    alt=""
+                    alt="coaches"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-gray-900">
@@ -88,7 +88,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/ios-filled/100/000000/teacher.png"
-                    alt=""
+                    alt="teachers"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-gray-900">
@@ -101,7 +101,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/ios-filled/100/000000/personal-trainer.png"
-                    alt=""
+                    alt="trainers"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-gray-900">
@@ -114,7 +114,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/ios-filled/100/000000/businessman.png"
-                    alt=""
+                    alt="entrepreneurs"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-gray-900">
@@ -127,7 +127,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/ios-filled/100/000000/podium-with-speaker.png"
-                    alt=""
+                    alt="motivational speakers"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-gray-900">
@@ -140,7 +140,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/glyph-neue/64/000000/under-computer.png"
-                    alt=""
+                    alt="freelancers"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-gray-900">
@@ -153,7 +153,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/ios-glyphs/90/000000/personal-growth.png"
-                    alt=""
+                    alt="growth hackers"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-gray-900">
@@ -166,7 +166,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/ios-filled/100/000000/business.png"
-                    alt=""
+                    alt="aspiring business owners"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-xl text-gray-900">
@@ -179,7 +179,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/ios-filled/100/000000/business-network.png"
-                    alt=""
+                    alt="network marketers"
                     className="w-12 h-11 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-gray-900">
@@ -192,7 +192,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/ios-filled/100/000000/men-age-group-5.png"
-                    alt=""
+                    alt="employees"
                     className="w-12 h-11 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-gray-900">
@@ -205,7 +205,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/material-sharp/96/000000/precision-skill.png"
-                    alt=""
+                    alt="professionals"
                     className="w-12 h-11 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-gray-900">
@@ -219,7 +219,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/ios-filled/100/000000/sell-stock.png"
-                    alt=""
+                    alt="people from selling industry"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-lg text-gray-900">
@@ -232,7 +232,7 @@ const FeatureAcc = () => {
                 <div className="border-2 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/ios-filled/100/000000/client-company.png"
-                    alt=""
+                    alt="medium business owners"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-xl text-gray-900">

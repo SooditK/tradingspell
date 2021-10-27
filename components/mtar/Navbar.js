@@ -41,12 +41,12 @@ export default function Navbar() {
                   <img
                     className="block lg:hidden h-8 w-auto"
                     src="https://i.postimg.cc/7P3FbnL4/logo512.png"
-                    alt="Workflow"
+                    alt="Trading spell"
                   />
                   <span className="hidden md:flex">
                     <img
                       src="https://i.postimg.cc/7P3FbnL4/logo512.png"
-                      alt="Workflow"
+                      alt="Trading spell"
                       className="h-8 w-auto flex justify-center items-center"
                     />
                     <a

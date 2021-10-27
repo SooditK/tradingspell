@@ -26,7 +26,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-3"
                   src="https://i.imgur.com/RK2J6wU.jpg"
-                  alt="content"
+                  alt="candlestick basics"
                 />
 
                 <h2 className="text-lg text-white font-medium title-font">
@@ -39,7 +39,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-10"
                   src="https://i.imgur.com/Gg194Fv.jpg"
-                  alt="content"
+                  alt="basics of price action"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-2">
                   BASICS OF PRICE ACTION
@@ -51,7 +51,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/yiQsuFq.jpg"
-                  alt="content"
+                  alt="expectancy rate"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-1">
                   EXPECTANCY RATE
@@ -63,7 +63,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/zltZ0Fq.jpg"
-                  alt="content"
+                  alt="market cycle in trading"
                 />
                 <h2 className="text-lg text-white font-medium title-font -mb-3">
                   MARKET CYCLE
@@ -75,7 +75,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/P4a7FNg.jpg"
-                  alt="content"
+                  alt="trending market and law of trend"
                 />
                 <h2 className="text-lg text-white font-medium title-font -mb-2">
                   TRENDING MARKET & LAW OF TREND
@@ -87,7 +87,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/EOVnQQR.jpg"
-                  alt="content"
+                  alt="price action tutorial"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-2">
                   PRICE ACTION TUTORIAL
@@ -99,7 +99,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/Jlwv91A.jpg"
-                  alt="content"
+                  alt="candlestick patterns"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-1">
                   CANDLESTICK PATTERNS
@@ -111,7 +111,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/IuQ1laJ.jpg"
-                  alt="content"
+                  alt="entry and exits in market"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   ENTRY & EXITS
@@ -123,7 +123,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/a6dhvW8.jpg"
-                  alt="content"
+                  alt="how to build trading system"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   HOW TO BUILD TRADING SYSTEM
@@ -135,7 +135,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/rW7vl7z.jpg"
-                  alt="content"
+                  alt="gap flling strategy"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-3">
                   GAP FILLING STRATEGY
@@ -147,7 +147,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/ggaOZuM.jpg"
-                  alt="content"
+                  alt="breakout strategy and chart patterns"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   BREAKOUT STRATEGY & CHART PATTERNS
@@ -159,7 +159,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/70SaZ9m.jpg"
-                  alt="content"
+                  alt="bounce trading strategy"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   BOUNCE TRADING STRATEGY
@@ -171,7 +171,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/lDxegff.jpg"
-                  alt="content"
+                  alt="volume analysis"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   VOLUME ANALYSIS
@@ -183,7 +183,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/aBvWZxJ.jpg"
-                  alt="content"
+                  alt="trading indicators"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   TRADING INDICATORS
@@ -195,7 +195,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/fXy2MtO.jpg"
-                  alt="content"
+                  alt="risk management"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   RISK MANAGEMENT
@@ -207,7 +207,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/VnlRKxy.jpg"
-                  alt="content"
+                  alt="trade management"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   TRADE MANAGEMENT
@@ -219,7 +219,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/CgHvTCf.jpg"
-                  alt="content"
+                  alt="trading psychology and mindset"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   TRADING PSYCHOLOGY & MINDSET
@@ -231,7 +231,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/PHLfyfh.jpg"
-                  alt="content"
+                  alt="stock selection"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   STOCK SELECTION
@@ -243,7 +243,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/iSrFxdf.jpg"
-                  alt="content"
+                  alt="advance technical analysis"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-2">
                   ADVANCE TECHNICAL ANALYSIS
@@ -255,7 +255,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/hxvczpV.jpg"
-                  alt="content"
+                  alt="long term trading"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   LONG TERM TRADING

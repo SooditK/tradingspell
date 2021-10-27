@@ -45,7 +45,7 @@ export default function HeroNav() {
                         <img
                           className="h-8 w-auto sm:h-10 rounded-full"
                           src="https://i.postImage.cc/7P3FbnL4/logo512.png"
-                          alt="Hero Image"
+                          alt="Trading spell Hero Image"
                         />
                       </a>
                     </Link>
@@ -96,7 +96,7 @@ export default function HeroNav() {
                       <img
                         className="h-8 w-auto rounded-full"
                         src="https://i.postImage.cc/7P3FbnL4/logo512.png"
-                        alt=""
+                        alt="Trading spell"
                       />
                     </div>
                     <div className="-mr-2">
@@ -174,7 +174,7 @@ export default function HeroNav() {
         <img
           className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
           src="https://www.vanguardngr.com/wp-content/uploads/2020/03/stock.jpg"
-          alt=""
+          alt="stock market"
         />
       </div>
     </div>

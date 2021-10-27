@@ -12,7 +12,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.postimg.cc/QtfmGKWP/1631596985.jpg"
-                  alt="content"
+                  alt="timeframe co relation"
                 />
 
                 <h2 className="text-lg text-white font-medium title-font mb-1">
@@ -25,7 +25,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.postimg.cc/hGg1X1L6/1631597012.jpg"
-                  alt="content"
+                  alt="price action basics"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-1">
                   PRICE ACTION BASICS
@@ -37,7 +37,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/cx6yI7u.jpg"
-                  alt="content"
+                  alt="grouping of candles"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-1">
                   GROUPING OF CANDLES
@@ -49,7 +49,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-4"
                   src="https://i.imgur.com/hwaXBPj.jpg"
-                  alt="content"
+                  alt="timeframe for intraday swing for long term"
                 />
                 <h2 className="text-lg text-white font-medium title-font -mb-3">
                   TIMEFRAME FOR INTRADAY, SWING AND LONG TERMS
@@ -61,7 +61,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/Oel262r.jpg"
-                  alt="content"
+                  alt="what moves the price psychology"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-2">
                   WHAT MOVES THE PRICE(PSYCHOLOGY)
@@ -73,7 +73,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/2BdEz59.jpg"
-                  alt="content"
+                  alt="how to draw support and resistance"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-2">
                   HOW TO DRAW SUPPORT AND RESISTANCE
@@ -85,7 +85,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/BONvk6q.jpg"
-                  alt="content"
+                  alt="what is supply and demand zones"
                 />
                 <h2 className="text-lg text-white font-medium title-font mb-1">
                   WHAT IS SUPPLY AND DEMAND ZONES
@@ -97,7 +97,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/eQI0z9L.jpg"
-                  alt="content"
+                  alt="difference between support resistance and supply demand"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   DIFFERENCE B/W S/R AND SUPPLY DEMAND
@@ -109,7 +109,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/Rp8g8hY.jpg"
-                  alt="content"
+                  alt="how to draw trendlines"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   HOW TO DRAW TRENDLINES
@@ -121,7 +121,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/jyjaOi6.jpg"
-                  alt="content"
+                  alt="how to draw curves"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   HOW TO DRAW CURVES
@@ -133,7 +133,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/bgkYCTn.jpg"
-                  alt="content"
+                  alt="what is counter trendlines"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   WHAT IS COUTNER TRENDLINES
@@ -145,7 +145,7 @@ const Cards = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center mb-6"
                   src="https://i.imgur.com/2Nmkfxz.jpg"
-                  alt="content"
+                  alt="pro tradingview tutorials"
                 />
                 <h2 className="text-lg text-white font-medium title-font">
                   PRO TRADINGVIEW TUTORIALS

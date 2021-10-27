@@ -13,7 +13,7 @@ const Testimonials = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/aWQwKSD.jpg"
-                  alt="content"
+                  alt="testimonials one"
                 />
                 {/* <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Bhaumik</center>
@@ -25,7 +25,7 @@ const Testimonials = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/mgUKGf1.jpg"
-                  alt="content"
+                  alt="testimonials two"
                 />
                 {/* <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Sai Vignesh</center>
@@ -37,7 +37,7 @@ const Testimonials = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/q1IOmx7.jpg"
-                  alt="content"
+                  alt="testimonials three"
                 />
                 {/* <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Neha</center>
@@ -49,7 +49,7 @@ const Testimonials = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/ynWcjPA.jpg"
-                  alt="content"
+                  alt="testimonials four"
                 />
                 {/* <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Snehlata</center>
@@ -61,7 +61,7 @@ const Testimonials = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/llndKRt.jpeg"
-                  alt="content"
+                  alt="testimonials five"
                 />
                 {/* <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Adesh</center>
@@ -73,7 +73,7 @@ const Testimonials = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/mwa6QWw.jpg"
-                  alt="content"
+                  alt="testimonials six"
                 />
                 {/* <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Rohit</center>
@@ -85,7 +85,7 @@ const Testimonials = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/8K7asWZ.jpg"
-                  alt="content"
+                  alt="testimonials seven"
                 />
                 {/* <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Khushi Sharma</center>
@@ -97,7 +97,7 @@ const Testimonials = () => {
                 <img
                   className="h-50 rounded w-full object-cover object-center"
                   src="https://i.imgur.com/OChTkye.jpg"
-                  alt="content"
+                  alt="testimonials eight"
                 />
                 {/* <h2 className="text-lg text-white font-medium title-font mb-4">
                   <center>Vimalan</center>

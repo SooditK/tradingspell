@@ -20,7 +20,7 @@ const HeroSection = () => {
         <div className="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
           <img
             className="w-full sm:w-4/6 mb-10 object-cover object-center rounded"
-            alt="hero"
+            alt="Trading spell hero image"
             src="https://i.imgur.com/x4oBqfW.png"
           />
           <div className="text-center lg:w-5/6 w-full">

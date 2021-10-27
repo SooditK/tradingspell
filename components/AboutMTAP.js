@@ -19,7 +19,7 @@ const AboutMTAP = () => {
               <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
                 <img
                   src="https://png.pngtree.com/png-vector/20200311/ourlarge/pngtree-vector-illustration-business-people-hold-work-meetings-with-many-suggestions-for-png-image_2156403.jpg"
-                  alt=""
+                  alt="introduction to price action trading"
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
                 />
                 <div className="flex-grow sm:pl-8">
@@ -38,7 +38,7 @@ const AboutMTAP = () => {
               <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
                 <img
                   src="https://cdn.cse.lk/dvp/landing-intro.png"
-                  alt=""
+                  alt="chart patterns trading"
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
                 />
                 <div className="flex-grow sm:pl-8">
@@ -56,7 +56,7 @@ const AboutMTAP = () => {
               <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
                 <img
                   src="https://png.pngtree.com/png-clipart/20200710/ourlarge/pngtree-hand-drawn-stock-market-technical-analysis-chart-and-business-people-shaking-png-image_2305016.jpg"
-                  alt=""
+                  alt="price action trading"
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
                 />
                 <div className="flex-grow sm:pl-8">
@@ -74,7 +74,7 @@ const AboutMTAP = () => {
               <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
                 <img
                   src="https://i.pinimg.com/736x/9f/b1/6d/9fb16d5849ef8e14140d24bbe7115f97.jpg"
-                  alt=""
+                  alt="candlestick patterns in trading"
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
                 />
                 <div className="flex-grow sm:pl-8">
@@ -93,7 +93,7 @@ const AboutMTAP = () => {
               <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
                 <img
                   src="https://image.freepik.com/free-vector/success-failure-business-illustration_1150-43189.jpg"
-                  alt=""
+                  alt="indicators in trading"
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
                 />
                 <div className="flex-grow sm:pl-8">
@@ -111,7 +111,7 @@ const AboutMTAP = () => {
               <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
                 <img
                   src="https://tradebrains.in/wp-content/uploads/2020/05/Futures-vs-Options-Trading-What-is-More-Profitable.jpg"
-                  alt=""
+                  alt="advanced technical analysis"
                   className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
                 />
                 <div className="flex-grow sm:pl-8">

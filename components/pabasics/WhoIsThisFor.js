@@ -23,7 +23,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 text-white bg-gray-900 border-gray-200 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/office/80/000000/students.png"
-                    alt=""
+                    alt="students"
                     className="w-12 h-11 mb-3 text-white inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-white">
@@ -36,7 +36,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/color/96/000000/engineer.png"
-                    alt=""
+                    alt="engineers"
                     className="w-12 h-11 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-white">
@@ -49,7 +49,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/fluency/96/000000/total-sales-1.png"
-                    alt=""
+                    alt="sales professional"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-white">
@@ -62,7 +62,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/color/96/000000/coach.png"
-                    alt=""
+                    alt="coaches"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-white">
@@ -75,7 +75,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/000000/external-teacher-online-learning-vitaliy-gorbachev-flat-vitaly-gorbachev-1.png"
-                    alt=""
+                    alt="teachers"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-white">
@@ -88,7 +88,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/color/96/000000/personal-trainer-skin-type-3.png"
-                    alt=""
+                    alt="trainers"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-white">
@@ -101,7 +101,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/color/96/000000/businessman.png"
-                    alt=""
+                    alt="entrepreneurs"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-white">
@@ -114,7 +114,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/color/96/000000/podium-with-speaker.png"
-                    alt=""
+                    alt="motivational speakers"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-white">
@@ -127,7 +127,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/color/96/000000/female-working-with-a-laptop.png"
-                    alt=""
+                    alt="freelancers"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-white">
@@ -140,7 +140,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/external-itim2101-flat-itim2101/64/000000/external-growth-search-itim2101-flat-itim2101-1.png"
-                    alt=""
+                    alt="growth hackers"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-white">
@@ -153,7 +153,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/external-itim2101-flat-itim2101/64/000000/external-businessman-cafe-itim2101-flat-itim2101.png"
-                    alt=""
+                    alt="aspiring business owners"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-xl text-white">
@@ -166,7 +166,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-networking-management-kiranshastry-lineal-color-kiranshastry.png"
-                    alt=""
+                    alt="network marketers"
                     className="w-12 h-11 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-white">
@@ -179,7 +179,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-employee-work-from-home-flatart-icons-flat-flatarticons.png"
-                    alt=""
+                    alt="employees"
                     className="w-12 h-11 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-white">
@@ -192,7 +192,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/color/96/000000/nerd-hair--v2.png"
-                    alt=""
+                    alt="professionals"
                     className="w-12 h-11 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-2xl text-white">
@@ -206,7 +206,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/color/96/000000/saleswoman.png"
-                    alt=""
+                    alt="people from selling industry"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-lg text-white">
@@ -219,7 +219,7 @@ const WhoIsThisFor = () => {
                 <div className="border-2 border-gray-200 bg-gray-900 px-4 py-6 rounded-lg">
                   <img
                     src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-tie-startup-flatart-icons-flat-flatarticons.png"
-                    alt=""
+                    alt="medium business owners"
                     className="w-12 h-12 mb-3 inline-block"
                   />
                   <h2 className="title-font font-medium text-xl text-white">
