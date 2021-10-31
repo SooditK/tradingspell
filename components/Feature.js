@@ -2,6 +2,7 @@ import React from "react";
 import BeltGreen from "./BeltGreen";
 import BasicTable from "./Table";
 import styles from "../styles/Feature.module.css";
+import Countdown from "./countdown/Countdown";
 
 const Feature = () => {
   return (
@@ -10,7 +11,7 @@ const Feature = () => {
         <center>
           <BeltGreen text="Deliverables in Master Technical Analysis Program" />
         </center>
-        <div className="container justify-center items-center px-5 py-24 mx-auto flex flex-wrap">
+        <div className="container justify-center items-center px-5 pt-24 pb-28 mx-auto flex flex-wrap">
           <div className="flex justify-center items-center flex-wrap w-5/6 sm:w-4/6">
             <BasicTable className="text-xl" />
           </div>
@@ -73,6 +74,7 @@ const Feature = () => {
               </div>
             </div>
           </section>
+          <Countdown />
         </div>
       </section>
     </div>

@@ -19,7 +19,7 @@ const FeatureTable = () => {
             </div>
           </section>
         </center>
-        <div className="container justify-center items-center px-5 py-24 mx-auto flex flex-wrap">
+        <div className="container justify-center items-center px-5 pt-24 pb-28 mx-auto flex flex-wrap">
           <div className="flex justify-center items-center flex-wrap w-5/6 sm:w-4/6">
             <BasicTable className="text-xl" />
           </div>
