@@ -137,11 +137,11 @@ const BonusSection = () => {
               </button>
             </a> */}
           </div>
-          <p
+          {/* <p
             className={`flex text-lg sm:text-5xl items-center justify-center mt-8 neonText ${styles.neonText}`}
           >
             Special Diwali Offer Extra ₹1000 OFF till 7th November
-          </p>
+          </p> */}
         </div>
       </section>
     </div>

@@ -3,6 +3,7 @@ import BeltGreen from "./BeltGreen";
 import BasicTable from "./Table";
 import styles from "../styles/Feature.module.css";
 import Countdown from "./countdown/Countdown";
+import Link from "next/link";
 
 const Feature = () => {
   return (
@@ -57,20 +58,22 @@ const Feature = () => {
                 </button>
               </a> */}
                     </div>
-                    <p
+                    {/* <p
                       className={`flex text-lg sm:text-5xl items-center justify-center mt-8 neonText ${styles.neonText}`}
                     >
                       Special Diwali Offer Extra ₹1000 OFF till 7th November
-                    </p>
+                    </p> */}
                   </div>
                 </div>
               </div>
               <div className="lg:w-1/2 sm:w-1/3 w-full rounded-lg overflow-hidden mt-6 sm:mt-0">
-                <img
-                  className="object-cover object-center w-full h-full"
-                  src="https://i.imgur.com/ZtliYTn.png"
-                  alt="stats"
-                />
+                <Link href="https://rzp.io/l/MTAP">
+                  <img
+                    className="object-cover object-center w-full h-full cursor-pointer"
+                    src="https://i.imgur.com/4A41cj2.png"
+                    alt="stats"
+                  />
+                </Link>
               </div>
             </div>
           </section>
