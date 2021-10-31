@@ -58,9 +58,9 @@ const Feature = () => {
               </a> */}
                     </div>
                     <p
-                      className={`flex text-lg sm:text-3xl items-center justify-center mt-8 neonText ${styles.neonText}`}
+                      className={`flex text-lg sm:text-5xl items-center justify-center mt-8 neonText ${styles.neonText}`}
                     >
-                      Special Diwali Discount till 7th November
+                      Special Diwali Offer Extra ₹1000 OFF till 7th November
                     </p>
                   </div>
                 </div>
