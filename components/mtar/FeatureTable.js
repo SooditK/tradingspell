@@ -27,7 +27,6 @@ const FeatureTable = () => {
                         (₹68485/-){" "}
                       </strike> */}
                       <h1 className="text-2xl sm:text-5xl text-white font-medium title-font">
-                        <span>STARTING FROM 7th OCTOBER</span>
                         <br />
                         ALL THIS IN JUST{" "}
                         <span className="my-4 font-bold text-yellow-400 text-6xl flex items-center justify-center ">

@@ -31,6 +31,23 @@ export default function SimpleAccordion() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
+          aria-controls="panel2a-content"
+          id="panel2a-header"
+        >
+          <Typography className={classes.heading}>
+            How many sessions will be there?
+          </Typography>
+        </AccordionSummary>
+        <AccordionDetails className={classes.accordion_details}>
+          <Typography>
+            There will be 5 Pre-recorded Session, Each session will be of at
+            least 90 minutes long.
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
+      <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
           aria-controls="panel1a-content"
           id="panel1a-header"
         >
@@ -43,6 +60,23 @@ export default function SimpleAccordion() {
             Yes, Lifetime Support will be provided to you. You will be able to
             ask doubts on Whatsapp. Also you will get the LIFETIME Access to
             TradingSpell Discord Communit
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
+      <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="panel1a-content"
+          id="panel1a-header"
+        >
+          <Typography className={classes.heading}>
+            Where will I access the Recordings?
+          </Typography>
+        </AccordionSummary>
+        <AccordionDetails className={classes.accordion_details}>
+          <Typography>
+            You will get access to the recordings on our App. (Available for
+            Mobile and TABS).
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -79,71 +113,6 @@ export default function SimpleAccordion() {
             Sectoral Analysis + Swing Trading + Intraday Trading + Index Trading
             and Much More...
           </Typography>
-        </AccordionDetails>
-      </Accordion>
-      <Accordion>
-        <AccordionSummary
-          expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel2a-content"
-          id="panel2a-header"
-        >
-          <Typography className={classes.heading}>
-            What if I miss any Live Session?
-          </Typography>
-        </AccordionSummary>
-        <AccordionDetails className={classes.accordion_details}>
-          <Typography>
-            You will get the Recordings of the live sessions as well. The access
-            will be provided to you for atleast 60 days.
-          </Typography>
-        </AccordionDetails>
-      </Accordion>
-      <Accordion>
-        <AccordionSummary
-          expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel2a-content"
-          id="panel2a-header"
-        >
-          <Typography className={classes.heading}>
-            What will be the Timings & How Long will the Session be?
-          </Typography>
-        </AccordionSummary>
-        <AccordionDetails className={classes.accordion_details}>
-          <Typography>
-            On 7th October, Each Session will be atleast 90+ minutes long.
-            English: 4:00 PM onwards, HINDI: 8:00 PM onwards.
-          </Typography>
-        </AccordionDetails>
-      </Accordion>
-      <Accordion>
-        <AccordionSummary
-          expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel2a-content"
-          id="panel2a-header"
-        >
-          <Typography className={classes.heading}>
-            How many sessions will be there?
-          </Typography>
-        </AccordionSummary>
-        <AccordionDetails className={classes.accordion_details}>
-          <Typography>
-            There will be 5 Pre-recorded Session, Each session will be of at
-            least 90 minutes long.
-          </Typography>
-        </AccordionDetails>
-      </Accordion>
-      <Accordion>
-        <AccordionSummary
-          expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel2a-content"
-          id="panel2a-header"
-        >
-          <Typography className={classes.heading}>
-            Where will the session be conducted?
-          </Typography>
-        </AccordionSummary>
-        <AccordionDetails className={classes.accordion_details}>
-          <Typography>The sessions will be conducted on ZOOM.</Typography>
         </AccordionDetails>
       </Accordion>
       <Accordion>

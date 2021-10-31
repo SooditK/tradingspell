@@ -51,7 +51,7 @@ const WhyRevision = () => {
                 </div>
                 <div className="flex-grow">
                   <p className="leading-relaxed text-base">
-                    New classNamees to Make You Better in Index Trading
+                    New Insights to Make You Better in Index Trading
                   </p>
                 </div>
               </div>
@@ -65,7 +65,7 @@ const WhyRevision = () => {
                 </div>
                 <div className="flex-grow">
                   <p className="leading-relaxed text-base">
-                    New classNamees to Make you Better in Swing Trading
+                    New Insights to Make you Better in Swing Trading
                   </p>
                 </div>
               </div>
