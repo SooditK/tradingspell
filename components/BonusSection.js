@@ -1,6 +1,7 @@
 import React from "react";
 import SimpleAccordion from "./Accordion";
 import BeltGreen from "./BeltGreen";
+import styles from "../styles/Feature.module.css";
 
 const BonusSection = () => {
   return (
@@ -136,6 +137,11 @@ const BonusSection = () => {
               </button>
             </a> */}
           </div>
+          <p
+            className={`flex text-lg sm:text-3xl items-center justify-center mt-8 neonText ${styles.neonText}`}
+          >
+            Special Diwali Discount till 7th November
+          </p>
         </div>
       </section>
     </div>

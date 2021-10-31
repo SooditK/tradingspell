@@ -2,6 +2,7 @@
 import React from "react";
 import Typical from "react-typical";
 // import img from "next/img";
+import styles from "../styles/Feature.module.css";
 
 const HeroSection = () => {
   return (
@@ -75,12 +76,17 @@ const HeroSection = () => {
               {/* <a
                 href="https://rzp.io/l/ZRaXZNJ4L"
                 className="flex items-center justify-center"
-              >
+                >
                 <button className="sm:ml-6 rounded-full flex mt-4 sm:mt-0 text-black bg-yellow-400 border-2 py-2 px-4 sm:py-2 sm:px-8 border-yellow-400 hover:bg-yellow-700 hover:text-white hover:border-yellow-700 text-md sm:text-2xl">
-                  Reserve Your Spot for MTAP (2.0)
+                Reserve Your Spot for MTAP (2.0)
                 </button>
               </a> */}
             </div>
+            <p
+              className={`flex text-lg sm:text-3xl items-center justify-center mt-8 neonText ${styles.neonText}`}
+            >
+              Special Diwali Discount till 7th November
+            </p>
           </div>
         </div>
       </section>
