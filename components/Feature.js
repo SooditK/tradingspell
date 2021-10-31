@@ -70,7 +70,7 @@ const Feature = () => {
                 <Link href="https://rzp.io/l/MTAP">
                   <img
                     className="object-cover object-center w-full h-full cursor-pointer"
-                    src="https://i.imgur.com/4A41cj2.png"
+                    src="https://i.imgur.com/4c0ZGl5.png"
                     alt="stats"
                   />
                 </Link>
