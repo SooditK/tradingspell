@@ -71,7 +71,7 @@ const FeatureTable = () => {
                 <Link href="https://rzp.io/l/MTAP">
                   <img
                     className="object-cover object-center w-full h-full cursor-pointer"
-                    src="https://i.imgur.com/ngk3hpk.png"
+                    src="https://i.imgur.com/bBNca9V.png"
                     alt="stats"
                   />
                 </Link>

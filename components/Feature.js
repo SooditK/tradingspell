@@ -26,6 +26,9 @@ const Feature = () => {
                 {" "}
                 (₹68485/-){" "}
               </strike> */}
+                      <span className="text-3xl mb-3 text-gray-300">
+                        Program will start from 14th November
+                      </span>
                       <h1 className="text-2xl sm:text-5xl text-white font-medium title-font">
                         ALL THIS IN JUST{" "}
                         <span className="my-4 font-bold text-yellow-400 text-6xl flex items-center justify-center ">
@@ -70,7 +73,7 @@ const Feature = () => {
                 <Link href="https://rzp.io/l/MTAP">
                   <img
                     className="object-cover object-center w-full h-full cursor-pointer"
-                    src="https://i.imgur.com/4c0ZGl5.png"
+                    src="https://i.imgur.com/T8cBuqx.png"
                     alt="stats"
                   />
                 </Link>
