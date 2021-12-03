@@ -78,8 +78,8 @@ export default function SimpleAccordion() {
         </AccordionItemHeading>
         <AccordionItemPanel className="bg-gray-900 p-4">
           <p>
-            On 14th October, Each Session will be atleast 90+ minutes long.
-            English: 4:00 PM onwards, HINDI: 8:00 PM onwards.
+            On 14th December, Each Session will be atleast 90+ minutes long.
+            English: 3:00 PM onwards, HINDI: 5:00 PM onwards.
           </p>
         </AccordionItemPanel>
       </AccordionItem>

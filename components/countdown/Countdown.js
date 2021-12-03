@@ -10,7 +10,7 @@ const Countdown = () => {
   let interval;
 
   const startTimer = () => {
-    const newCountDate = new Date("27 Nov, 2021");
+    const newCountDate = new Date("14 Dec, 2021");
     const countDownDate = new Date(newCountDate).getTime();
     interval = setInterval(() => {
       const now = new Date().getTime();
